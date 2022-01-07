@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Observer",
+        "repositoryURL": "https://github.com/dandevcraft/ObserverSwift.git",
+        "state": {
+          "branch": "master",
+          "revision": "060c59496b8567c0fc9a40896d8d54a8293a63f6",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
